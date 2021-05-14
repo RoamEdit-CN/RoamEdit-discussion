@@ -9,5 +9,4 @@
 - [文档 / Wiki 请点这跳转](https://github.com/roamedit-developer/RoamEdit/wiki)
 
 
-## License
-- [MIT](LICENSE) © [RoamEdit Developer](https://github.com/roamedit-developer)
+
