@@ -1,5 +1,6 @@
 # RoamEdit-discussion
-本仓库是 RoamEdit-讨论区
+- 本仓库是 RoamEdit-讨论区
+- [roamedit官方网站](https://roamedit.com)
 
 ## 导航
 
@@ -9,4 +10,4 @@
 
 
 ## License
-[MIT](LICENSE) © [RoamEdit Developer](https://github.com/roamedit-developer)
+- [MIT](LICENSE) © [RoamEdit Developer](https://github.com/roamedit-developer)
