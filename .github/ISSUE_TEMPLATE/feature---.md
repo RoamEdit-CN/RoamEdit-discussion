@@ -1,7 +1,7 @@
 ---
 name: Feature 需求
 about: 提交需求以完善功能
-title: ''
+title: "[FEATURE]"
 labels: feature
 assignees: ''
 

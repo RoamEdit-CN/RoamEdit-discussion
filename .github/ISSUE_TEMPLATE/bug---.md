@@ -1,6 +1,6 @@
 ---
 name: Bug 错误
-about: 提交报告以帮助我们改进
+about: 提交报告以修复问题
 title: "[BUG]"
 labels: bug
 assignees: ''
