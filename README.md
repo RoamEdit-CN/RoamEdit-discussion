@@ -8,5 +8,6 @@
   - 需求帖子前请加 [需求] 再写内容 ，bub帖子前请加 [bug] 再写内容
 - [文档 / Wiki 请点这跳转](https://github.com/roamedit-developer/RoamEdit/wiki)
 
-
+## License
+- [MIT](LICENSE) © [RoamEdit](https://github.com/RoamEdit-CN/)
 
