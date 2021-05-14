@@ -1,5 +1,5 @@
-# RoamEdit Developer
-本仓库是 RoamEdit Developer 聚集地
+# RoamEdit-discussion
+本仓库是 RoamEdit-讨论区
 
 ## 导航
 
